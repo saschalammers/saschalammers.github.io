@@ -1,0 +1,3 @@
+# Diese Domain soll nicht durchsucht, indexiert oder archiviert werden.
+User-agent: *
+Disallow: /
